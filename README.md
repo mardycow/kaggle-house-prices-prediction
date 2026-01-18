@@ -13,5 +13,4 @@
 predictions = model_2.predict(X_test_2)
 RMSLE = np.sqrt(mean_squared_log_error(y_test, predictions))
 print(f"The score is {RMSLE:.5f}")
-
-The score is 0.13096
+#The score is 0.13096
