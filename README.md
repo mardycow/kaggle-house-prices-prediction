@@ -1,4 +1,4 @@
-# kaggle-house-prices-prediction
+# kaggle_house_prices_prediction
 Предсказание стоимости недвижимости. Проект включает разведочный анализ данных (EDA) и построение прогнозной модели с использованием XGBoost Regressor на основе открытого датасета Kaggle - https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques.
 
 ## Ключевые этапы
